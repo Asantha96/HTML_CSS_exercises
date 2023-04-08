@@ -1,0 +1,15 @@
+.search-google {
+  height: 30px;
+  width: 400px;
+  border-width: 1px;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Arial;
+  font-size: 15px;
+  border-color: grey;
+  font-weight: bold;
+  font-size: 16px;
+}

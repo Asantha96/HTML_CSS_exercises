@@ -1,0 +1,20 @@
+.main{
+  width: 220px;
+  font-family: Arial;
+  font-size: 16px;
+  vertical-align: middle;
+  display: inline-block;
+  
+  
+}
+.choice-buttons{
+  font-family: Arial;
+  font-size: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 50px;
+  vertical-align: middle;
+  
+}

@@ -1,0 +1,46 @@
+.button{
+  display: block;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  font-family: Arial;
+  font-size: 16px;
+  border-radius: 8px;
+  border-width: 1px;
+  color: white;
+  background-color: rgba(36, 54, 214, 0.768);
+  width: 452px;
+  border: none;
+  
+}
+.input-name{
+  width: 200px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  font-family: Arial;
+  font-size: 16px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+}
+.input-bar{
+  width: 432px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  font-family: Arial;
+  font-size: 16px;
+  border-radius: 8px;
+  border-width: 1px;
+  border-style: solid;
+}

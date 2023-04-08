@@ -1,0 +1,26 @@
+.main-box{
+  font-family: Arial;
+  color: white;
+  width: 360px;
+  height: 120px;
+  background-color: rgb(55, 54, 54);
+}
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.heading{
+  font-size: 27px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  
+  
+}
+.description{
+  padding-top: 0px;
+  padding-left: 10px;
+
+  
+
+}

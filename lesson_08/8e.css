@@ -1,0 +1,52 @@
+.main{
+  font-family: Arial;
+  font-size: 40px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  
+}
+.input-bar{
+  font-family: Arial;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 16px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: block;
+  width: 400px;
+  height: 30px;
+  background-color: rgba(228, 220, 220, 0.576);
+  border: none;
+}
+.request-button{
+  width: 150px;
+  height: 40px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 14px;
+  font-family: Arial;
+  border: none;
+  background-color: black;
+  color: white;
+}
+.schedule-later-button {
+  width: 150px;
+  height: 40px;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 14px;
+  font-family: Arial;
+  border: none;
+  background-color: rgba(228, 220, 220, 0.576);
+  color: black;
+}

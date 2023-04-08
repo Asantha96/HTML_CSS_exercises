@@ -1,0 +1,45 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 5px;
+  padding-top: 5px;
+  /* padding-bottom: 5px; */
+}
+.cart{
+  width: 200px;
+  height: 300px;
+  /* border-style: solid; */
+  border-color: grey;
+  border-width: 1px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.image{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.name{
+  font-weight: 700;
+}
+.no-of-friends{
+  font-size: 14px;
+}
+.button{
+  width: 90px;
+  height: 30px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 15px;
+  margin-left: 5px;
+  background-color: rgba(44, 87, 206, 0.908);
+  color: white;
+  border: none;
+  border-radius: 3px;
+
+}
